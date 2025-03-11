@@ -31,3 +31,10 @@ Hive Level Scope: 1. Data is already available in hive tables.
 	5. Work with DevOps team to define a CI/CD pipeline.
 
 So, need to create a json file at the end.
+
+GIT Branches
+Master: Production Environment
+Release: QA testing environment
+Dev: Development Environment
+
+
